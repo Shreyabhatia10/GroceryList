@@ -43,6 +43,7 @@ The project follows MVVM (Model-View-ViewModel):
 
 **Project Structure**
 
+```
 GroceryList/
 │
 ├── Models/
@@ -61,6 +62,7 @@ GroceryList/
 │   ├── +categoryExtension.swift
 │
 └── GroceryListApp.swift
+```
 
 **Possible Improvements**
 
